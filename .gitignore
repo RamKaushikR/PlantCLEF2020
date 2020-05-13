@@ -1,0 +1,7 @@
+Dataset/
+Models/
+Mappings/
+Submissions/
+resnet50_weights_tf_dim_ordering_tf_kernels_notop.h5
+image_mappings.pkl
+*.ipynb_checkpoints/
